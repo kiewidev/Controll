@@ -1,0 +1,7 @@
+{
+  "name": "Nebula Hand Control",
+  "description": "A cinematic 3D particle system controlled by real-time hand gestures or mouse interaction, featuring generative audio and fluid shape morphing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
